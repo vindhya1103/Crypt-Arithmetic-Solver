@@ -18,25 +18,27 @@ The app maps letters to unique digits (0-9) ensuring valid solutions with no lea
 - ⚡ Optimized Performance
 - ❌ Handles No-Solution Cases
 
-## Project Structure
-
-cryptarithmetic-web-app/ ├── app.py # Main Flask app ├── requirements.txt # Dependencies ├── templates/ # HTML Templates │ └── index.html ├── static/ # CSS/JS └── README.md # Documentation
-
 
 ## Getting Started
 
-### Clone the Repository
 
 ```bash
+1. Clone the Repository
+
 git clone https://github.com/your-username/cryptarithmetic-web-app.git
 cd cryptarithmetic-web-app
-Setup and Run
+
+2. Setup and Run
+
 python3 -m venv venv
 source venv/bin/activate       # For Windows: venv\Scripts\activate
 pip install -r requirements.txt
 python3 app.py
-Open your browser:
+
+3. Open your browser:
+
 http://127.0.0.1:5000/
+
 License
 This project is licensed under the MIT License.
 
