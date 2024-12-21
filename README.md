@@ -10,7 +10,7 @@ A Flask-based web app to solve Cryptarithmetic puzzles with unique digit mapping
 2. [Features](#features)  
 3. [Setup and Usage](#setup-and-usage)  
 4. [License](#license)  
-5. [Contact](#contact)  
+
 
 ---
 
